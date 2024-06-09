@@ -1,4 +1,4 @@
-you can run this project as follow:
+You can run this project as follow:
 
 ##npm install
 Install the package of project
